@@ -21,6 +21,8 @@
 
         <key.storage.path>/etc/</key.storage.path>
         <tsa/>
+         <sonar.organization>ocs</sonar.organization>
+         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <modules>
